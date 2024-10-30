@@ -4,15 +4,15 @@
 This project provides an API for managing biological experiments on a networked device. Key functionalities include creating experiments, configuring stages and steps, starting, resuming, and stopping experiments, and retrieving amplification data.
 
 ## Table of Contents
-1. [Installation](#installation)
-2. [Configuration](#configuration)
-3. [Authentication](#authentication)
-4. [Experiment Management](#experiment-management)
-    - [Create Experiment](#create-experiment)
-    - [Update Experiment Stages and Steps](#update-experiment-stages-and-steps)
-    - [Start, Resume, Stop Experiment](#start-resume-stop-experiment)
-5. [Amplification Data Retrieval](#amplification-data-retrieval)
-6. [Usage Example](#usage-example)
+1. Installation
+2. Configuration
+3. Authentication
+4. Experiment Management
+    - Create Experiment
+    - Update Experiment Stages and Steps
+    - Start, Resume, Stop Experiment
+5. Amplification Data Retrieval
+6. Usage Example
 
 ---
 
